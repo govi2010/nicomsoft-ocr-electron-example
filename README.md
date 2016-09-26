@@ -1,10 +1,27 @@
-# Electron desktopCapturer Sample
+# Nicomsoft OCR Electron Example
 
-![](images/1.gif)
+# Prerequisite:
 
-## How to use
+'node-gyp': installation instruction https://github.com/nodejs/node-gyp
 
+'electron-rebuild': installation instruction  https://github.com/electron/electron-rebuild
+
+
+# Install : 
 ```
 npm install
+```
+
+# Rebuild Native module :
+
+```
+electron-rebuild -f -w electron-edge
+```
+
+# Run :
+
+```
 npm start
 ```
+
+# 
