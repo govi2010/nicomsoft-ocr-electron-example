@@ -1,0 +1,19 @@
+{
+  "name": "nicomsoft-ocr-electron-example",
+  "version": "0.0.1",
+  "author": "Govinda Alwani",
+  "dependencies": {
+    "nicomsoft-ocr-electron": "git://github.com/govi2010/nicomsoft-ocr-electron.git#master",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "1.4.1",
+    "electron-rebuild": "^1.2.1"
+  },
+  "license": "MIT",
+  "main": "src/browser/index.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}
