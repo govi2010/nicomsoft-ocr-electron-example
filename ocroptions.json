@@ -1,0 +1,20 @@
+{
+  "FindBarcodes": false,
+  "ImgInversion": false,
+  "ZonesInversion": false,
+  "DetectFixSkew": false,
+  "Rotation": false,
+  "ImgNoiseFilter": false,
+  "RemoveLines": false,
+  "GrayMode": false,
+  "FastMode": false,
+  "BinTwice": false,
+  "CorrectMixed": false,
+  "Dictionary": false,
+  "OneColumn": false,
+  "EnabledChars": "",
+  "DisabledChars": "",
+  "BinarizationThreshold": 255,
+  "TextQuality": 1,
+  "PDFRenderingDPI": ""
+}
